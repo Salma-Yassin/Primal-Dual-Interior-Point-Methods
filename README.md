@@ -17,7 +17,7 @@ his repo implements three different variations of the Interior point method. The
 
 ### Example 
 
-Here is an example proble and how it is was solved 
+Here is an example problem and how it is was solved 
 
 ![Problem](example.PNG)
 
