@@ -21,6 +21,6 @@ Here is an example problem and how it is was solved
 
 ![Problem](example.PNG)
 
-![Solution](solution.PNG)
+![Solution](solution1.PNG)
 
 You can find details about how to input the problem and how it is solved using the three given algorithms in `test.m`
